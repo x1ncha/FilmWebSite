@@ -1,0 +1,192 @@
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\appsettings.Development.json
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\appsettings.json
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.staticwebassets.runtime.json
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.exe
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.deps.json
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.runtimeconfig.json
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.pdb
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Core.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Identity.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Storage.Common.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Castle.Core.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Humanizer.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MailKit.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\MimeKit.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\QRCoder.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\SixLabors.ImageSharp.Web.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.CodeDom.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Memory.Data.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\X.PagedList.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.AssemblyReference.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfoInputs.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfo.cs
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.CoreCompileInputs.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.MvcApplicationPartsAssemblyInfo.cs
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.RazorAssemblyInfo.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.RazorAssemblyInfo.cs
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.sourcelink.json
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.development.json
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.MovieManager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieManager.props
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieManager.props
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieManager.props
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.pack.json
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\bundle\MovieManager.styles.css
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\projectbundle\MovieManager.bundle.scp.css
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.CopyComplete
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\refint\MovieManager.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.pdb
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.genruntimeconfig.cache
+D:\masaüstü yedek\Desktop\film\MovieManager\obj\Debug\net7.0\ref\MovieManager.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü yedek\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\appsettings.json
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.staticwebassets.runtime.json
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.exe
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.deps.json
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.runtimeconfig.json
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MovieManager.pdb
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\JetBrains.Annotations.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MailKit.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\QRCoder.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\SixLabors.ImageSharp.Web.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\X.PagedList.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.AssemblyReference.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfoInputs.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfo.cs
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.RazorAssemblyInfo.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.RazorAssemblyInfo.cs
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.sourcelink.json
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.MovieManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieManager.props
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieManager.props
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieManager.props
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\bundle\MovieManager.styles.css
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\scopedcss\projectbundle\MovieManager.bundle.scp.css
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.csproj.CopyComplete
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\refint\MovieManager.dll
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.pdb
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\MovieManager.genruntimeconfig.cache
+C:\Users\Yiğit\Desktop\film\MovieManager\obj\Debug\net7.0\ref\MovieManager.dll

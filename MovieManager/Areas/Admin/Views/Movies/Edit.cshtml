@@ -1,0 +1,70 @@
+﻿@model Movie
+@{
+    ViewData["title"] = "Kayıt Güncelleme";
+}
+<div class="card">
+    <div class="card-body">
+        <h2>
+            @ViewData["title"]
+        </h2>
+        <form method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Views" />
+            <input type="hidden" asp-for="Image" />
+            <div class="mb-3">
+                <label class="form-label" asp-for="GenreId"></label>
+                <select class="form-select" asp-for="GenreId" asp-items="@ViewBag.Genres">
+                </select>
+                <span asp-validation-for="GenreId"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Name"></label>
+                <input class="form-control" asp-for="Name" placeholder="film adını yazınız...">
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Year"></label>
+                <select class="form-select" asp-for="Year">
+                    <option value="">[Seçiniz]</option>
+                    @for (int i = DateTime.Today.Year; i > 1875; i--)
+                    {
+                        <option>@i</option>
+                    }
+                </select>
+                <span asp-validation-for="Year"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Description">Açıklama</label>
+                <textarea class="form-control" asp-for="Description" rows="4"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <div class="py-3">
+                    <img src="@Model.Image" height="340" />
+                </div>
+                <div class="text-info">(Değiştirmek istiyorsanız seçiniz)</div>
+                <label for="formFile" class="form-label" asp-for="Image"></label>
+                <input class="form-control" type="file" id="imageFile" name="imageFile">
+            </div>
+            <hr />
+            <button type="submit" class="btn btn-primary">
+                Kaydet
+            </button>
+            <a class="btn btn-link" asp-action="Index">İptal</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+
+    <script>
+    $(() => {
+        $('.summernote').summernote({
+            height: 200
+        });
+    })
+    </script>
+}

@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Genre>
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Film Türleri
+    </a>
+    <ul class="dropdown-menu">
+        @foreach (var genre in Model)
+        {
+            <li><a class="dropdown-item" asp-controller="Home" asp-action="Genre" asp-route-id="@genre.Id">@genre.Name <span class="badge bg-success text-white">@genre.Movies.Count.ToString("n0")</span></a></li>
+        }
+    </ul>
+</li>

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Movie>
+
+
+<div class="row row-cols-1 row-cols-md-5 g-4">
+    @foreach (var movie in Model)
+    {
+        <div class="col">
+            <div class="card h-100 film-box">
+                <a asp-action="Movie" asp-route-id="@movie.Id">
+                    <img class="card-img-top" src="@movie.Image" />
+                </a>
+                <div class="card-body">
+                    <div class="card-title h6 text-truncate">
+                        <a asp-action="Movie" asp-route-id="@movie.Id" class="text-decoration-none">
+                            @movie.Name
+                        </a>
+                    </div>
+                    <div class="card-text">@movie.Year</div>
+                    <div class="small">@movie.Genre!.Name</div>
+                    <div class="card-text">@movie.Views.ToString("n0")</div>
+                    <a asp-action="Movie" asp-route-id="@movie.Id" class="btn btn-primary">incele</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

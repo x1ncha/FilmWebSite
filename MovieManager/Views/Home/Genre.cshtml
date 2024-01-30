@@ -1,0 +1,16 @@
+﻿@model IPagedList<Movie>
+@{
+    ViewData["Title"] = ViewBag.Genre.Name;
+
+}
+<div class="d-flex justify-content-center py-2">
+    @Html.PagedListPager(Model,
+        page => Url.Action("Genre", new { id = ViewBag.Genre.Id, page = page })
+        , MovieManagerExtensions.PagedListOptions)
+</div>
+<partial name="_MovieListPartial" model="@Model" />
+<div class="d-flex justify-content-center py-2">
+    @Html.PagedListPager(Model,
+        page => Url.Action("Genre", new { id = ViewBag.Genre.Id, page = page })
+        , MovieManagerExtensions.PagedListOptions)
+</div>

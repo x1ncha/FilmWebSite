@@ -1,0 +1,79 @@
+﻿@model X.PagedList.PagedList<AppUser>
+@{
+    ViewData["title"] = "Kullanıcılar";
+}
+<div class="card">
+    <div class="card-body">
+        <h2>
+            @ViewData["title"]
+        </h2>
+      
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Görsel</th>
+                    <th>Tür</th>
+                    <th>Ad</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <i class="bi bi-person-circle"></i>
+                        </td>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Email</td>
+
+                        <td class="text-end">
+                            <a class="btn btn-danger remove-btn" asp-action="Delete" asp-route-id="@item.Id">
+                                <i class="bi bi-trash"></i>
+                                Sil
+                            </a>
+                            <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">
+                                <i class="bi bi-pencil"></i>
+                                Güncelle
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-center py-2">
+            @Html.PagedListPager(Model,
+                page => Url.Action("Index", new {  page = page })
+                , MovieManagerExtensions.PagedListOptions)
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+
+    <script>
+
+
+
+        $(() => {
+            $('.remove-btn').on('click', (evt) => {
+                Swal.fire({
+                    icon: 'warning',
+                    title: 'UYARI!',
+                    html: 'Emin misiniz?',
+                    showCancelButton: true,
+                    cancelButtonText: 'İptal',
+                    confirmButtonText: 'Sil'
+
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location = $(evt.currentTarget).attr('href');
+                    }
+                })
+                return false;
+            });
+        })
+    </script>
+}

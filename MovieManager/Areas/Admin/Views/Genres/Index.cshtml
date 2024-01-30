@@ -1,0 +1,71 @@
+﻿@model List<Genre>
+@{
+    ViewData["title"] = "Türler";
+}
+<div class="card">
+    <div class="card-body">
+        <h2>
+            @ViewData["title"]
+        </h2>
+        <div class="d-flex py-2">
+            <a asp-action="Create" class="btn btn-success ms-auto">
+                <i class="bi bi-plus"></i>
+                Yeni Kayıt
+            </a>
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Ad</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name (@item.Movies.Count.ToString("n0"))</td>
+                        <td class="text-end">
+                            <a class="btn btn-danger remove-btn" asp-action="Delete" asp-route-id="@item.Id">
+                                <i class="bi bi-trash"></i>
+                                Sil
+                            </a>
+                            <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">
+                                <i class="bi bi-pencil"></i>
+                                Güncelle
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@section Scripts {
+    
+<script>
+
+    
+
+    $(() => {
+        $('.remove-btn').on('click', (evt) => {
+            Swal.fire({
+                icon: 'warning',
+                title: 'UYARI!',
+                html: 'Eminmisiniz?',
+                showCancelButton: true,
+                cancelButtonText: 'İptal',
+                confirmButtonText : 'Sil'
+
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location = $(evt.currentTarget).attr('href');
+                }
+            })
+            return false;
+        });
+    })
+</script>
+}

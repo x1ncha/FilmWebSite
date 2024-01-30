@@ -1,0 +1,58 @@
+﻿@model Movie
+@{
+    ViewData["title"] = Model.Name;
+}
+@{
+
+<div class="row">
+        <video width="300px" height="600px" controls>
+            <source src="/image/wpvideo1.mp4">
+        </video>
+    <div class="col-12 col-md-6">
+        <header class="h1">@Model.Name</header>
+        <div>FİLM YAPIM TARİHİ : @Model.Year</div><br />
+        <div> GÖRÜNTÜLENME SAYISI @Model.Views</div><br />
+            <div>AÇIKLAMA : @Model.Description</div>
+    </div>
+</div>
+var comments = Model.Comments.ToList();
+}
+   <div>
+            <div class="p-4">
+                <div class="card">
+                    <div class="card-body">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <partial name="_CommentFormPartial" model="new CommentViewModel { MovieId = Model.Id }" />
+                        }
+                        else
+                        {
+                            <div class="card-text">Yorum eklemek için oturum açınız...</div>
+                        }
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        @foreach (var comment in comments)
+                        {   
+                            <blockquote class="blockquote p-4" style="border-left : 16px solid rgba(0,0,0,0.1)">
+                                <div class="d-flex">
+                                    <div class="flex-fill">
+                                <b>@comment.CreatorUser!.FirstName</b>
+                                        <br />
+                                        <span class="small">@comment.Date.ToLocalTime().ToShortDateString()</span>
+                                        <div class="p4">
+                                            @comment.Text
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <partial name="_ProductRatePartial" model="(float)comment.Rate" />
+                                    </div>
+                                </div>
+                            </blockquote>
+                            <hr />
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>

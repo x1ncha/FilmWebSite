@@ -1,0 +1,26 @@
+﻿
+<div class="text-right d-flex">
+    @if (User.Identity.IsAuthenticated)
+    {
+
+      
+        <span>Hoş geldiniz Sn. @User.FindFirst("Name").Value</span>
+        <a class="mx-2" asp-controller="Account" asp-action="Logout">
+            <i class="fa fa-sign-out"></i>
+            Güvenli Çıkış
+        </a>
+    }
+    else
+    {   
+        <a class="mx-2 ml-auto" asp-controller="Account" asp-action="Register">
+            <i class="fa fa-user-plus"></i>
+          
+        </a>
+        <span>|</span>
+        <a class="mx-2" asp-controller="Account" asp-action="Login">
+            <i class="fa fa-sign-in"></i>
+           
+        </a>
+        
+    }
+</div>

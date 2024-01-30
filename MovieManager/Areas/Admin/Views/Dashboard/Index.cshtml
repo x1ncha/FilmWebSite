@@ -1,0 +1,73 @@
+﻿@model DashboardViewModel
+@{
+
+}
+
+<h4>Hoş geldiniz...</h4>
+<div class="row row-cols-1 row-cols-md-3 gap-2">
+    <div class="card bg-success text-white">
+        <div class="card-body">
+            <div class="h4">
+                Tür
+            </div>
+            <div class="h1">
+                @Model.Genres.ToString("n0")
+                <div class="h2 text-white-50">Adet</div>
+            </div>
+        </div>
+    </div>
+    <div class="card bg-danger text-white">
+        <div class="card-body">
+            <div class="h4">
+                Film
+            </div>
+            <div class="h1">
+                @Model.Movies.ToString("n0")
+                <div class="h2 text-white-50">Adet</div>
+            </div>
+        </div>
+    </div>
+    <a asp-controller="Dashboard" asp-action="usersdetail" class="card bg-primary text-white">
+        <div class="card-body">
+            <div class="h4">
+                KAYITLI KULLANICI SAYISI
+            </div>
+            <div class="h1">
+                @Model.Users.ToString("n0")
+                <div class="h2 text-white-50">Adet</div>
+            </div>
+        </div>
+    </a>
+
+    <div class="card bg-primary text-white">
+        <div class="card-body">
+            <div class="h4">
+                 KULLANICI YORUM SAYISI
+            </div>
+            <div class="h1">
+                @Model.Comments.ToString("n0")
+                <div class="h2 text-white-50">Adet</div>
+            </div>
+        </div>
+    </div>
+    <div class="card bg-primary text-white">
+        <div class="card-body">
+    <h2>Top 3 Movies:</h2>
+
+    <ul>
+        @foreach (var movie in Model.Top3Movies)
+        {
+            <li>
+                <strong>@movie.Name</strong> - @movie.Views views
+         
+            </li>
+        }
+    </ul>
+    </div>
+    </div>
+    <div class="card  text-white">
+        <div class="card-body">
+            <img src="admin/dashboard/getqrcode" height="40" width="40"/>
+        </div>
+    </div>
+</div>
